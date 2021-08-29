@@ -1,0 +1,22 @@
+Steps
+1.configuration
+git config --global -user.name "manish"
+git config --global -user.email "manish@gmail.com"
+
+2. Working directory
+
+3. initialization
+git init
+
+4. stagging
+git add <filename> -m"<message>"
+
+5. local storage
+git commit
+git status
+
+6. remote directory assign
+git remote add origin "<url>"
+
+7.Push to remote directory or hub or repo
+git push origin master
