@@ -20,3 +20,8 @@ git remote add origin "<url>"
 
 7.Push to remote directory or hub or repo
 git push origin master
+
+8. Clone a repo
+git clone <repo url>
+
+
