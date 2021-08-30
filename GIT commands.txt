@@ -24,7 +24,26 @@ git push origin master
 8. Clone a repo
 git clone <repo url>
 
-9. Pul the changes
+9. Pull the changes
 git pull origin master
 
+10. create a branch
+git branch <branch-name>
+
+11. list of branches
+git branch
+
+12. switch to another branch
+git checkout <branch-name>
+
+13. Delete a branch
+Ensure you are not on same branch which you are deleting
+git branch -d <branch-name>
+
+14. change name of a branch
+Ensure you are on the same branch for which you are changing the name of branch
+git branch -m <new name>
+
+15. Create a branch and switch to that branch in one go
+git branch -b <branch name>
 
