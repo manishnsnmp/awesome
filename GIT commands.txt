@@ -45,5 +45,5 @@ Ensure you are on the same branch for which you are changing the name of branch
 git branch -m <new name>
 
 15. Create a branch and switch to that branch in one go
-git branch -b <branch name>
+git branch -b <branch-name>
 
