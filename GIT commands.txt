@@ -24,4 +24,7 @@ git push origin master
 8. Clone a repo
 git clone <repo url>
 
+9. Pul the changes
+git pull origin master
+
 
